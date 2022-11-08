@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@900&family=Outfit:wght@300&display=swap");
+
+:root {
+  --gold: hsl(24, 56%, 63%);
+  --black: hsl(0, 0%, 8%);
+  --grey: hsl(0, 0%, 27%);
+  --white: hsl(0, 0%, 100%);
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: cursive;
+  font-size: 1.6rem;
+  line-height: 1.6;
+  background-color: #777;
+}
