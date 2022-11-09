@@ -13,6 +13,7 @@
 .hero__heading-main {
   font-size: 4rem;
   font-weight: 900;
+  text-transform: uppercase;
 }
 
 .hero__text-desc {
