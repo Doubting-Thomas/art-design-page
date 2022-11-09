@@ -1,0 +1,13 @@
+.btn {
+  padding: 2rem 4rem;
+  background-color: var(--black);
+  color: var(--white);
+  font-family: inherit;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.btn:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
