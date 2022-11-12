@@ -11,7 +11,7 @@
 }
 
 .heading-bold {
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: 900;
   text-transform: uppercase;
 }
@@ -60,3 +60,22 @@
 .footer__heading-main {
   font-size: 3rem;
 }
+
+.map-image {
+  display: block;
+  width: 100%;
+}
+.location__heading-secondary {
+  text-transform: uppercase;
+  font-weight: 900;
+  color: var(--gold);
+}
+
+/* .location-image {
+  background-image: url(../images/image-map-desktop.png);
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
+
+  padding: 40rem;
+} */
