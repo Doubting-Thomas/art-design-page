@@ -63,8 +63,13 @@
 
 .map-image {
   display: block;
-  width: 100%;
+  width: 60%;
 }
+
+.location__text {
+  width: 60%;
+}
+
 .location__heading-secondary {
   text-transform: uppercase;
   font-weight: 900;
