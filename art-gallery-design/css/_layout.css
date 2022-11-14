@@ -27,7 +27,7 @@
 
 .arrow-icon {
   background-color: var(--gold);
-  padding: 2rem;
+  padding: 1.8rem;
 }
 
 .arrow-icon:hover {
@@ -61,13 +61,13 @@
   font-size: 3rem;
 }
 
-.map-image {
-  display: block;
+.location {
   width: 70%;
 }
 
-.location__text {
-  width: 70%;
+.map-image {
+  display: block;
+  width: 100%;
 }
 
 .location__heading-secondary {
@@ -79,7 +79,6 @@
 .gold-box {
   background-color: var(--gold);
   color: var(--white);
-  width: 70%;
   padding: 2rem;
 }
 
