@@ -76,6 +76,13 @@
   color: var(--gold);
 }
 
+.gold-box {
+  background-color: var(--gold);
+  color: var(--white);
+  width: 70%;
+  padding: 2rem;
+}
+
 /* .location-image {
   background-image: url(../images/image-map-desktop.png);
   background-repeat: no-repeat;
